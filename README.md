@@ -1,2 +1,40 @@
 # Mern-Blog-Website
  
+Mern-Blog-Website/
+├── api/
+│   ├── models/
+│   │   |── User.js
+|   |   └── Post.js
+│   ├── routes/
+│   │   ├── index.js
+│   ├── .env
+│   ├── server.js
+│   └── package.json
+├── client/
+│   ├── src/
+│   │   ├── pages/
+│   │   │   ├── CreatePost.js
+│   │   │   └── EditPost.js
+│   │   │   └── IndexPage.js
+│   │   │   └── LoginPage.js
+│   │   │   └── PostPage.js
+│   │   │   └── RegisterPage.js
+│   │   ├── App.css
+│   │   ├── App.js
+│   │   ├── App.test.js
+│   │   ├── Editor.js
+│   │   ├── Header.js
+│   │   ├── Layout.js
+│   │   ├── Post.js
+│   │   ├── UserContext.js
+│   │   ├── index.css
+│   │   ├── index.js
+│   │   ├── logo.svg
+│   │   ├── reportWebVitals.js
+│   │   ├── setupTests.js
+│   │   ├── yarn.lock
+│   ├── public/
+│   ├── .env
+│   └── package.json
+├── README.md
+└── .gitignore
