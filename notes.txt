@@ -1,0 +1,16 @@
+--Client side
+    -- You can use react-time-ago package to display time like 45 sec ago etc..
+    or you can use date-fns for date
+
+
+-- API(For server side):
+    for async,await functions use try,catch
+    for passwords and sensitive stuff use decrypt from yarn package
+      
+    
+--Use yarn add for mongodb, mongoose , express , react , react-router-dom
+    , bcrypt , jsonwebtoken , cookie-parser , react-quill(editor) ,
+
+--To upload the file submitted through the form to your directory,
+    type yarn add multer in api directory
+
