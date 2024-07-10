@@ -22,7 +22,7 @@ git clone https://github.com/shrey0511/Mern-Blog-Website-app.git
 
 
 2. Install dependencies for the backend:
-cd my-app/backend
+cd Mern-Blog-Website/api
 npm install
 
 
@@ -36,7 +36,7 @@ nodemon index.js
 
 
 5. Install dependencies for the frontend:
-cd ../frontend
+cd ../client
 npm install
 
 
