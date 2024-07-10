@@ -1,0 +1,8 @@
+express
+mongodb
+mongoose
+dotenv
+jsonwebtoken
+bcrypt
+cookie-parser
+nodemon
