@@ -129,7 +129,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions, suggestions, or feedback, feel free to contact the repository maintainer:
 
-- Name: Shrey
+- Name: Shreyansh Singh
 - Email: singh.shrey0511@gmail.com
 - GitHub: https://github.com/shrey0511
 
