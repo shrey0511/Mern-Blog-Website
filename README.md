@@ -18,7 +18,7 @@ This is a full-stack application built with React and Express that demonstrates 
 ## Setup Instructions
 
 1. Clone the repository:
-git clone https://github.com/yourusername/my-app.git
+git clone https://github.com/shrey0511/Mern-Blog-Website-app.git
 
 
 2. Install dependencies for the backend:
